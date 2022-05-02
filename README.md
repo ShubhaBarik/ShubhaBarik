@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhashree
 - 👀 I’m believe food and music unite all
-- 🌱 I’m currently learning MDanalysis for my ongoing research
+- 🌱 Currently learning MDanalysis for my ongoing research
 - 📫 Reach me at 20lsph02@uohyd.ac.in
 
 <!---
