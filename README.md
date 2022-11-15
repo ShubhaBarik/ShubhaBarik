@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhashree
-- 👀 I believe food and music unites us all
+- 👀 I believe food and music unites us all. My YT channel : www.youtube.com/@wrapchickVlogs/videos
 - 🌱 Currently learning Python for my ongoing research
 - 📫 Reach me at 20lsph02@uohyd.ac.in
 
