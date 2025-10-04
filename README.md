@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubhashree
-- 👀 I believe food and music unites us all. I make vlogs and post on www.youtube.com/@wrapchickVlogs/videos
-- 🌱 Currently using R|Python for my ongoing Doctoral research.
-- 📫 Reach me at 20lsph02@uohyd.ac.in
+- 👀 foodie and loves music
+- 🌱 plays around by learning to code better.
+- 📫 Reach me at shubhashree.barik@schrodinger.com
 
 <!---
 ShubhaBarik/ShubhaBarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
